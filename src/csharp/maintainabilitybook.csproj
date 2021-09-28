@@ -70,7 +70,6 @@
     <Compile Include="eu\sig\training\ch03\binarytree\v3\BinaryTreeSearch.cs" />
     <Compile Include="eu\sig\training\ch03\Flag.cs" />
     <Compile Include="eu\sig\training\ch03\FlagFactory.cs" />
-    <Compile Include="eu\sig\training\ch03\FlagFactoryOops.cs" />
     <Compile Include="eu\sig\training\ch03\FlagFactoryWithMap.cs" />
     <Compile Include="eu\sig\training\ch03\JenkinsUser.cs" />
     <Compile Include="eu\sig\training\ch03\Nationality.cs" />
